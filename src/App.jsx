@@ -7,7 +7,7 @@ import Temperatura from './components/Temperatura';
 
 function App() {
   return (
-    <div className="App">
+    <div className="App  ">
       <h1>Hola mundo la concha de tu madre</h1>
       <form> 
         <input type="text" />

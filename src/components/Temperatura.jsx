@@ -26,14 +26,14 @@ const frioCalor=()=>{
 
 return (
 
-    <Fragment>
+    <Fragment >
 
     <h1> La temperatura es de : {numeros}</h1>
     <p> 
             {frioCalor()}
     </p>
-    <button onClick={restar}> Restar </button>
-    <button onClick={sumar}> Sumar </button>
+    <button className="btn btn-success  btn-Block " onClick={restar}> Restar </button>
+    <button className="btn btn-success btn-Block "  onClick={sumar}> Sumar </button>
 
 
     </Fragment>
