@@ -9,6 +9,7 @@ return (
     <div>
         <h1>Numeros random xD</h1>
         <p> {numeroRandom}</p>
+        
     </div>
 
 );

@@ -3,6 +3,7 @@ import './App.css';
 import Hola from  './components/Hola';
 import Contador from  './components/Contador';
 
+
 function App() {
   return (
     <div className="App">
@@ -13,6 +14,7 @@ function App() {
       </form>
       <Hola></Hola>
       <Contador></Contador>
+     
     </div>
     
       
