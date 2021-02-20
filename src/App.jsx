@@ -2,7 +2,8 @@
 import './App.css';
 import Hola from  './components/Hola';
 import Contador from  './components/Contador';
-
+import Lista from './components/Lista';
+import Temperatura from './components/Temperatura';
 
 function App() {
   return (
@@ -14,7 +15,9 @@ function App() {
       </form>
       <Hola></Hola>
       <Contador></Contador>
-     
+      <Lista></Lista>
+      <Temperatura> </Temperatura>
+
     </div>
     
       
