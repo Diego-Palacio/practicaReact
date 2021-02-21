@@ -4,6 +4,7 @@ import Hola from  './components/Hola';
 import Contador from  './components/Contador';
 import Lista from './components/Lista';
 import Temperatura from './components/Temperatura';
+import Formularios from './components/Formularios';
 
 function App() {
   return (
@@ -17,6 +18,7 @@ function App() {
       <Contador></Contador>
       <Lista></Lista>
       <Temperatura> </Temperatura>
+      <Formularios> </Formularios>
 
     </div>
     
